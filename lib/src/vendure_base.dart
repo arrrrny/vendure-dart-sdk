@@ -1,4 +1,4 @@
-import 'package:graphql/client.dart';
+import 'package:graphql_plus/graphql_plus.dart';
 import 'package:vendure/src/fragments/active_order_fragment.dart';
 import 'package:vendure/src/mutations/add_item_to_order_mutation.dart';
 
