@@ -4,11 +4,10 @@ version: 0.1.0
 homepage: https://github.com/arrrrny/vendure-dart-sdk
 
 environment:
-  sdk: '>=2.12.0 <4.0.0'
+  sdk: '>=3.0.0 <4.0.0'
 
 dependencies:
   graphql_plus: ^5.2.6
-  http: ^1.6.0
 
 dev_dependencies:
   pedantic: ^1.11.0
